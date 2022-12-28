@@ -9,4 +9,4 @@ const params = {
 
 liveserver.start(params);
 
-
+console.log(self);
